@@ -1,0 +1,17 @@
+{
+    "multi_tokens": false,
+    "tokens": [
+      "TOKEN_1",
+      "TOKEN_2",
+      "TOKEN_3"
+    ],
+    "token": "TOKEN", 
+    "humanizer": true,
+    "delay_range": {
+      "thinking_delay_min": 1.0,
+      "thinking_delay_max": 5.0,
+      "typing_delay_min": 0.5,
+      "typing_delay_max": 2.0
+    }
+  }
+  
